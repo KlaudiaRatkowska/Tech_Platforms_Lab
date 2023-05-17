@@ -9,7 +9,7 @@ public class Mage {
     }
 
     public String getName() {
-        return name;
+        return name; 
     }
 
     @Override
